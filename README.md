@@ -8,6 +8,7 @@ The purpose of this portfolio to to show self assessments, personal-reflections,
 My current academic goal is to learn and build from each course at UTK to be successful in my new career path.  Currently pursing a Bachelors Degree in Data Science.  I taken two AI courses over the summer and this fall currently enrolled in two Cybersecurity courses.  I have not decided on a concentration or minor at this time. 
 ## Course Activities and Progects
 Course projects, assignments, and reflections completed throughout CECS-101 will be added here as the course progresses.
+- [Certificates](Certificates)
 ## Skills I am Developing
 At this time I am learning on how to use Github to organize and showcase my academic work. I am also learning how to create a profressional digital portfolio.
 ## Contact
