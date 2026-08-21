@@ -1,5 +1,5 @@
 # CECS-101-Digital-Portfolio
-My digital portfolio for CECS-101: Design Your Degree, Design Your Career.
+My digital portfolio for CECS-101: Design Your Degree, Design Your Career. 
 ## About me
 I am currently pursing a Bachelors in Data Science.  My academic interest is to learn more about data, technolgy and how it can be used in the real world. I currently work full time as a Registered Dental Hygientist.  I am ready to explore new career opportunities that will allow me to use the new skills and education that I am learning. 
 ## About this portfolio
